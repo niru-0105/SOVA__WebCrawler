@@ -26,7 +26,7 @@ To install the modules included in package.json
 ```
 To run the file
 ```bash
-  node index2.js
+  node index2.js <Your_url>
 ```
 
   
