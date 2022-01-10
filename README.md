@@ -43,14 +43,3 @@ You can always make a pull request for any improvement from your end !
 ### Thank you
 
   
-## Usage/Examples
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
-
-  
