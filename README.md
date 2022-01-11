@@ -40,7 +40,7 @@ Contributions are always welcome!
 
 You can always make a pull request for any improvement from your end !
 
-https://drive.google.com/file/d/1fFHAt-iBtt3C9qIHo_wAHuA8VNMpoBDM/view?usp=sharing
+![App Screenshot](https://drive.google.com/file/d/1q_YQSrMJ3esyFrBur8kv7037dOZI7oUc/view?usp=sharing)
   
 ### Thank you
 
