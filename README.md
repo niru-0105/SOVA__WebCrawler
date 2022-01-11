@@ -33,6 +33,12 @@ To run the file
 ## Tech Stack
 
 Nodejs
+
+![image](https://user-images.githubusercontent.com/78336837/148985363-bc6959d2-d078-4fc4-bba3-a00ae661cde3.png)
+![image](https://user-images.githubusercontent.com/78336837/148985403-1c304e3c-ae2a-441c-ae4e-8f416794ad07.png)
+![image](https://user-images.githubusercontent.com/78336837/148985427-897c78f3-934d-4c6b-9254-517cae5be12e.png)
+![image](https://user-images.githubusercontent.com/78336837/148985432-7ddce04b-99e4-4222-8ec7-795d8e4e31fb.png)
+
   
 ## Contributing
 
@@ -40,8 +46,7 @@ Contributions are always welcome!
 
 You can always make a pull request for any improvement from your end !
 
-![App Screenshot](https://drive.google.com/file/d/1q_YQSrMJ3esyFrBur8kv7037dOZI7oUc/view?usp=sharing)
-  
+
 ### Thank you
 
   
