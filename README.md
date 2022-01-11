@@ -2,7 +2,7 @@
 # SOVA Web Crawler
 
   
-## Greetings from Team SOVA !
+### Greetings from Team SOVA !
 We have made a small web crawler which will crawl home page of any given URL
 ## How to do - STEPS
 
