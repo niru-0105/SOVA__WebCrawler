@@ -48,7 +48,6 @@ You can always make a pull request for any improvement from your end !
 
 
 ### Thank you
-Team Members
-Suvidnya | Shashank | Nirupma
+####Team Members : Suvidnya | Shashank | Nirupma
 
   
